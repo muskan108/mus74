@@ -1,3 +1,11 @@
+/*Given a string, return the length of the largest "chunk" in the string. A chunk is a run of adjacent chars that are the same.  
+maxChunk("chaloopa") → 2
+maxChunk("abcdddBBBBxyzzz") → 4
+maxChunk("") → 0 */
+
+
+
+
 var str = 'abczzdddBBBBxayzz'
 var c=[];
 var out = '';
