@@ -1,0 +1,9 @@
+function sumDouble(a, b){
+ if(a==b){
+ console.log(2*(a+b))
+ }else{
+ console.log(a+b)
+ } 
+}
+sumDouble(3,3)
+console.log(sumDouble);
