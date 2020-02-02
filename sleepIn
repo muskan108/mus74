@@ -1,0 +1,10 @@
+const vacation = true;
+const weekday = true;
+function sleepIn(weekday, vacation){
+    if(vacation==true){
+      console.log('Sleep');
+    }else{
+      console.log('Do not sleep');
+    }
+    
+  }
