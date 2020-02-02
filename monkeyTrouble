@@ -1,0 +1,7 @@
+function monkeyTrouble(aSmile, bSmile){
+  if(a==aSmile && b==bSmile)||(a!==aSmile && b!==bSmile){
+  console.log('We are in trouble.')
+  }
+}
+  call monkeyTrouble();
+  return true;
